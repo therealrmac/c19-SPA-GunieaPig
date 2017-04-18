@@ -1,0 +1,24 @@
+.blue{
+	color: blue;
+}
+.red{
+	color: red;
+}
+.larger{
+	font-size: 1.5em;
+}
+.capture{
+	border: 1.5px solid black;
+}
+.rounded{
+	border-radius: 15%;
+}
+#firstSection{
+	font-weight: bold;
+}
+#lastSection{
+	font-style: italic;
+}
+.button{
+	display: block;
+}
